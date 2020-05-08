@@ -2,12 +2,12 @@ apiVersion: v1
 entries:
   sample-runtime-bundle:
   - apiVersion: v1
-    created: "2020-05-08T09:58:14.7872772+07:00"
+    created: "2020-05-08T10:42:31.9041453+07:00"
     description: A Helm chart for Kurbenetes
-    digest: 5a8e2eea83ec9e442d4c9413e03527b5af72ff39284dbbe067b164869a598ff2
+    digest: c37a4a48ca0535aea3ec4d45d4faf9df9e96356b6170e92c0646f369b8339b64
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
     name: sample-runtime-bundle
     urls:
     - https://nguyenducanh6812.github.io/helm-repo/sample-runtime-bundle-0.1.0.tgz
     version: 0.1.0
-generated: "2020-05-08T09:58:14.7832705+07:00"
+generated: "2020-05-08T10:42:31.9031101+07:00"
