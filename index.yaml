@@ -1,8 +1,18 @@
 apiVersion: v1
 entries:
+  sample-cloud-connector:
+  - apiVersion: v1
+    created: "2020-05-11T16:49:40.2242669+07:00"
+    description: A Helm chart for Activiti Cloud Connector
+    digest: 8a759191f2f8576faa508afe9482b4bf6a76f5fbaaa136a707662bed67a1178a
+    icon: https://raw.githubusercontent.com/jenkins-x/jenkins-x-platform/master/images/java.png
+    name: sample-cloud-connector
+    urls:
+    - https://nguyenducanh6812.github.io/helm-repo/sample-cloud-connector-0.1.0.tgz
+    version: 0.1.0
   sample-runtime-bundle:
   - apiVersion: v1
-    created: "2020-05-11T10:14:52.7179724+07:00"
+    created: "2020-05-11T16:49:40.5538243+07:00"
     description: A Helm chart for Kurbenetes
     digest: 7d85331a680bce5e99460352e8ea4bc836cbb918d6835cae5b1a1be7ff0f3bb4
     icon: https://salaboy.files.wordpress.com/2018/01/acitiviti_icon_fullcolor_github_400x400.png
@@ -10,4 +20,4 @@ entries:
     urls:
     - https://nguyenducanh6812.github.io/helm-repo/sample-runtime-bundle-0.1.0.tgz
     version: 0.1.0
-generated: "2020-05-11T10:14:52.7169509+07:00"
+generated: "2020-05-11T16:49:40.2212671+07:00"
